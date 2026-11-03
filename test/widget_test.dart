@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:app_ads/main.dart';
 import 'package:app_ads/models/order.dart';
+import 'package:app_ads/ads/rewarded_ads.dart';
 
 void main() {
   test('Calcula cantidades y elimina productos sin valores negativos', () {
@@ -24,7 +25,7 @@ void main() {
     tester.view.devicePixelRatio = 1;
     addTearDown(tester.view.resetPhysicalSize);
     addTearDown(tester.view.resetDevicePixelRatio);
-    await tester.pumpWidget(const MesaApp());
+    await tester.pumpWidget(MesaApp(ads: RewardedAds(supported: false)));
     expect(find.text('Nuestro menú'), findsOneWidget);
     await tester.tap(find.byTooltip('Agregar Burger de la casa'));
     await tester.pumpAndSettle();
@@ -34,4 +35,3 @@ void main() {
     expect(find.text('Total'), findsOneWidget);
   });
 }
-
