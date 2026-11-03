@@ -1,0 +1,35 @@
+
+00:00 +0: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart                                                                                                            
+00:01 +0: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart                                                                                                            
+00:02 +0: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart                                                                                                            
+00:03 +0: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart                                                                                                            
+00:04 +0: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart                                                                                                            
+00:05 +0: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart                                                                                                            
+00:05 +0: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.earned controla la recompensa                                                               
+00:06 +0: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.earned controla la recompensa                                                               
+00:07 +0: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.earned controla la recompensa                                                               
+00:08 +0: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.earned controla la recompensa                                                               
+00:08 +1: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.earned controla la recompensa                                                               
+00:08 +1: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.skipped controla la recompensa                                                              
+00:09 +1: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.skipped controla la recompensa                                                              
+00:09 +2: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.skipped controla la recompensa                                                              
+00:09 +2: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.unavailable controla la recompensa                                                          
+00:10 +2: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.unavailable controla la recompensa                                                          
+00:10 +3: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: El resultado AdResult.unavailable controla la recompensa                                                          
+00:10 +3: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: Omitir no muestra el anuncio ni otorga un postre                                                                  
+00:11 +3: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: Omitir no muestra el anuncio ni otorga un postre                                                                  
+00:11 +4: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: Omitir no muestra el anuncio ni otorga un postre                                                                  
+00:11 +4: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: Volver desde la introducción conserva el pedido                                                                   
+00:12 +4: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: Volver desde la introducción conserva el pedido                                                                   
+00:12 +5: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/ad_flow_test.dart: Volver desde la introducción conserva el pedido                                                                   
+00:12 +5: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart                                                                                                             
+00:13 +5: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart                                                                                                             
+00:14 +5: loading C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart                                                                                                             
+00:14 +5: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart: Calcula cantidades y elimina productos sin valores negativos                                                       
+00:14 +6: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart: Calcula cantidades y elimina productos sin valores negativos                                                       
+00:14 +6: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart: Agrega un platillo y permite revisar el pedido                                                                     
+00:15 +6: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart: Agrega un platillo y permite revisar el pedido                                                                     
+00:16 +6: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart: Agrega un platillo y permite revisar el pedido                                                                     
+00:17 +6: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart: Agrega un platillo y permite revisar el pedido                                                                     
+00:17 +7: C:/Users/fredd/Downloads/10mo-Cuatrimestre/app_ads/test/widget_test.dart: Agrega un platillo y permite revisar el pedido                                                                     
+00:17 +7: All tests passed!                                                                                                                                                                            

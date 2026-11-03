@@ -1,0 +1,2 @@
+f140e2e feat: crear app inicial de restaurante con menu y pedidos
+b64d83f feat: integrar anuncio 7 intersticial recompensado y brownie de cortesia

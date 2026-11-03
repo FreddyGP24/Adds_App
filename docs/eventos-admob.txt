@@ -1,0 +1,10 @@
+11-03 11:18:04.112  6628  6628 I flutter : [ADS #7] Anuncio de prueba cargado
+11-03 11:19:11.185  6628  6628 I flutter : [ADS #7] Pantalla completa
+11-03 11:19:20.435  6628  6628 I flutter : [ADS #7] onUserEarnedReward: 10 Coins
+11-03 11:20:17.074  6628  6628 I flutter : [ADS #7] Anuncio de prueba cargado
+11-03 11:20:40.194  6628  6628 I flutter : [ADS #7] Pantalla completa
+11-03 11:20:45.424  6628  6628 I flutter : [ADS #7] onUserEarnedReward: 10 Coins
+11-03 11:20:53.457  6628  6628 I flutter : [ADS #7] Anuncio de prueba cargado
+11-03 11:22:14.169  6628  6628 I flutter : [ADS #7] Pantalla completa
+11-03 11:23:13.144  6628  6628 I flutter : [ADS #7] onUserEarnedReward: 10 Coins
+11-03 11:26:00.872  6628  6628 I flutter : [ADS #7] Anuncio de prueba cargado
